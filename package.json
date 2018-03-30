@@ -1,5 +1,5 @@
 {
-  "name": "yoga-layout-windows",
+  "name": "yoga-layout",
   "version": "1.9.3",
   "description": "Prebuilt yoga-layout package for the browser.",
   "browser": "./dist/entry-browser",
