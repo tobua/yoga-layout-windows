@@ -1,0 +1,20 @@
+{
+  "name": "yoga-layout-windows",
+  "version": "1.9.3",
+  "description": "Prebuilt yoga-layout package for the browser.",
+  "browser": "./dist/entry-browser",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "license": "MIT",
+  "main": "./dist/entry-browser",
+  "homepage": "https://github.com/naminho/yoga-layout-windows",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/naminho/yoga-layout-windows.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naminho/yoga-layout-windows/issues"
+  }
+}
